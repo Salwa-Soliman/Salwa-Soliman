@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Salwa A. Soliman</h1>
+<h1 align="center">Hi, I'm Salwa A. Soliman <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" cursorshover="true"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" cursorshover="true"></a></h1>
 <h3 align="center">A passionate React Developer</h3>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <p align="center">
    <a href="https://linkedin.com/in/salwa-a-soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salwa-a-soliman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18270700/salwa-a-soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18270700/salwa-a-soliman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/salwasoliman896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salwasoliman896" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/salwasoliman896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salwasoliman896" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -28,4 +28,5 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salwa-soliman&show_icons=true&locale=en&layout=compact" alt="salwa-soliman" /></p>
-  </div>
+<!--  &theme=dark -->
+</div>
